@@ -1,3 +1,6 @@
+Zadania związane z metodami numerycznymi realizowane przy pomocy narzędzia jakim jest MAT LAB.
+Zadania są realizowane odzielnie, każde ma własny branch. 
+
 lab 13
 Ekstremum funkcji jednej zmiennej.
 Metody poszukiwań:
