@@ -125,7 +125,7 @@ end
 % Funkcja obliczajaca pierwsza pochodną "gradient"
 function poch_jeden = gradient(f, x)
          h = 1e-5;
-        poch_jeden = (f(x + h) - f(x - h)) / 2;
+        poch_jeden = (f(x + h) - f(x - h)) / (2 * h);
  end
 % Funkcja obliczajaca drugą pochodną "hessian" 
  function poch_dwa = hessian(f, x)
